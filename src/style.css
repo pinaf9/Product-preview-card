@@ -1,0 +1,35 @@
+body{
+    background-color: #FCF8E8;
+    margin-top: 10%;
+}
+
+
+
+.per{
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
+
+.btn-primary.custom-btn{
+    background-color: #66806A;
+    border-color: #66806A;
+}
+
+#oldPrice{
+    margin-left: 10%;
+    font-size: 85%;
+    color: gray;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#price{
+    margin-left: 8%;
+    color:#66806A;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 160%;
+}
+
